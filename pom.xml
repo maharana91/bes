@@ -132,7 +132,7 @@
 					<generateDirectory>${project.basedir}/src/main/java</generateDirectory>
 					<schemaDirectory>${project.basedir}/src/main/resources/wsdl</schemaDirectory>
 					<schemaIncludes>
-						<include>MFOrder_1.wsdl</include>
+						<include>MFOrder.wsdl</include>
 					</schemaIncludes>
 					<!--<schemas>
 						<schema>
